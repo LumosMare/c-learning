@@ -1,5 +1,6 @@
-# c-learning
+#  c-learning
 这是我的第一个C语言仓库
+
 ##🤓学习内容
 【X】Hello World（跑通第一个程序）
 【X】cultivate  （让计算机做简单的四则运算）
